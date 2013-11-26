@@ -22,7 +22,7 @@ After installing the package and restarting the editor:
 
 
 ### Manually
-Depending on your OS copy the Volt directory to any of the following locations:
+Depending on your OS copy this repository's directory to any of the following locations:
 
 #### Sublime Text 2
 
