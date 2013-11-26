@@ -3,7 +3,7 @@ Volt Syntax Highlight
 
 ![Volt-Bundle](http://www.phalconphp.com/img/volt-bundle.jpg)
 
-A [Sublime Text 2](http://www.sublimetext.com/) / [TextMate](http://macromates.com/) bundle for [Volt](http://docs.phalconphp.com/en/latest/reference/volt.html)
+A [Sublime Text 2/3](http://www.sublimetext.com/) / [TextMate](http://macromates.com/) bundle for [Volt](http://docs.phalconphp.com/en/latest/reference/volt.html)
 
 Installation
 ------------
@@ -28,12 +28,18 @@ Depending on your OS copy the Volt directory to any of the following locations:
 
 OS X
 `~/Library/Application Support/Sublime Text 2/Packages`
+or
+`~/Library/Application Support/Sublime Text 3/Packages`
 
 Linux
 `~/.Sublime Text 2/Packages`
+or
+`~/.Sublime Text 3/Packages`
 
 Windows
 `%APPDATA%/Sublime Text 2/Packages/`
+or
+`%APPDATA%/Sublime Text 3/Packages/`
 
 #### TextMate
 
