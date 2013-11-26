@@ -8,7 +8,7 @@ A [Sublime Text 2](http://www.sublimetext.com/) / [TextMate](http://macromates.c
 Installation
 ------------
 
-## via Package Control (Sublime)
+### via Package Control (Sublime)
 
 > This is the recommended installation method.
 
@@ -21,7 +21,7 @@ After installing the package and restarting the editor:
 * Type "Volt" and hit return.
 
 
-## Manually
+### Manually
 Depending on your OS copy the Volt directory to any of the following locations:
 
 #### Sublime Text 2
