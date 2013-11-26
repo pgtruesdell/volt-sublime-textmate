@@ -12,7 +12,7 @@ Installation
 
 > This is the recommended installation method.
 
-If you have Sublime Package Control, you know what to do. If not, well: it's a package manager for Sublime Text 2; it's awesome and you can [read about it here](http://wbond.net/sublime_packages/package_control) to install.
+If you have Sublime Package Control, you know what to do. If not, well: it's a package manager for Sublime Text; it's awesome and you can [read about it here](http://wbond.net/sublime_packages/package_control) to install.
 
 After installing the package and restarting the editor:
 
